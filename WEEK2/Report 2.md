@@ -34,7 +34,7 @@ We had our weekly meeting in which we discuss all the tasks that we did during t
 [PCB for CNC Milling machine](IMG9.jpeg)
 
 ## HSRW Learnings
-This week, I really got to enhance my soldering skills. In the university, I did not gain experience in soldering SMD components. But here, we had to solder them by hand and through this process, we had to refine our hand skills. Further, since I was already familiar with soldering PCBs and with schematics of circuit diagrams from the course Practical Electronics, it was easy to understand the schematic, the polarity of LEDs and diodes.
+This week, I really got to enhance my soldering skills. In the university, I did not gain experience in soldering SMD components. But here, we had to solder them by hand and through this process, we could refine our hand skills. Further, since I was already familiar with soldering PCBs and with schematics of circuit diagrams from the course Practical Electronics, it was easy to understand the schematic, the polarity of LEDs and diodes.
 
 
 
