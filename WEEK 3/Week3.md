@@ -31,5 +31,10 @@ We were trained in Fusion 360 and provided with a brief overview of all the nece
 
 [3D Model of Vinyl Cutter with fastners](IMG14.png)
 
+## HSRW Leanrnings
+
+The course Engineering Drawing & Design came very handy as we had learned to use SOLIDWORKS in it. In the company, we use Fusion 360 and it was  easy to apply what we leanred in Solidworks to the new software.
+
+In the group project, we gained exposure to BOM which gave me more clarity while doing BOM related tasks in the company.
 
 
