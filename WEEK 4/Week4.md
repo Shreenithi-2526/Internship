@@ -37,9 +37,9 @@ For the next task, we were supposed to test the 2 PCBs that we had soldered prev
 
 ## Wood Cutting
 
-We then proceeded to cut wood to small pieces using a machine. For very large pieces, we had to break it to smaller ones to fit it into the machine, for which we used an electric cutter. To be able to use these instruments, we were first provided with a safety training, following which we commenced the task.
+We then proceeded to cut wood to small pieces using a machine. For very large pieces, we had to break it to smaller ones to fit it into the bandsaw, for which we used an electric cutter. To be able to use these instruments, we were first provided with a safety training, following which we commenced the task.
 
-[Wood cutting machine](IMG21.jpeg)
+[Bandsaw](IMG21.jpeg)
 
 [4 boxes of cut wood](IMG22.jpeg)
 
