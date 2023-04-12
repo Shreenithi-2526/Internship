@@ -29,7 +29,7 @@ I was provided with a motor driver and a cable connnectorto measure and model it
 
 [The connector](IMG19.png)
 
-## Stepper Motor Testing
+## Testing PCB with motor & motor driver 
 
 For the next task, we were supposed to test the 2 PCBs that we had soldered previously for a CNC milling machine. For this, we connected the stepper motor to the motor driver, the motor driver to the PCB and gave 24V power supply and controlled the movements of the motor through UGS software, which is an open source software for CNC machines. As a result, we were able to control the motion X,Y & Z directions as desired.
 
@@ -42,3 +42,5 @@ We then proceeded to cut wood to small pieces using a machine. For very large pi
 [Wood cutting machine](IMG21.jpeg)
 
 [4 boxes of cut wood](IMG22.jpeg)
+
+
