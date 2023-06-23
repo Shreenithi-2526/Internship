@@ -36,7 +36,7 @@ Alternatively,I also made an example code using the indexOf() function in Arduin
 
 Further, I tried optimising the code by creating a function that searches for the string from the user input and displays a message.
 
-![Snippet of the function](IMG75.jpeg)
+![Snippet of the function](IMG75.png)
 
 ## Reflection
 
