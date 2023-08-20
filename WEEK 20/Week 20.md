@@ -11,7 +11,7 @@ In the assembly phase of the Fabulaser for the exhibition, I initiated with the 
 
 ## Filament Dry Box
 
- I accomplished a series of significant tasks that have contributed to the advancement of our engineering projects. I made revisions from the first version of the schematic on Eagle to ensure the functioning of the pcb.Then generated a board view and planned of the circuit layout ensuring a compact board. Additionally, I diligently searched for the required components, preparing for the upcoming stages of development.
+ I made revisions from the first version of the schematic on Eagle to ensure the functioning of the pcb.Then generated a board view and planned of the circuit layout ensuring a compact board. Additionally, I diligently searched for the required components, preparing for the upcoming stages of development.
 
 To finalize the circuit design, I made modifications to the board using EasyEDA which proved to be more flexible in terms of designing than Eagle, and with the help of FlatCAM software I was able to generate the G-code file of the pcb to mill it on the CNC Milling machine.
 
