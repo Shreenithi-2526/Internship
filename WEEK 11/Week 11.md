@@ -4,8 +4,6 @@
 
 This week commenced with laser cutting an MDF profile on Laser DUO which was intended to help in drilling holes on the bottom of the lathe machine. Since the bolts attached to the ground were very long, we were unsuccessful in detaching it from the machine. Hence it was important that we drilled holes to remove the bolts. We first started drilled holes with an M5 drill bit and kept inreasing the bit size graduallu till M16. After this we used a step drill in order to drill larger holes quickly. We used wrenches to losen the bolt as the drill machines were unable to remove the bolts from the ground. After a certain lever of unscrewed, we used a small handsaw to cut the bolts. At the end of this process, the lathe machine was sucessfully disassembled from the ground.
 
-![Lathe Machine on crane](IMG53.jpeg)
-
 ## Antenna System
 
 ### Motor Cables Extension
