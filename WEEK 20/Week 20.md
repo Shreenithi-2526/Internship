@@ -42,5 +42,5 @@ I 3D printed a few components that would aid in holding the fans and heater in p
 Through experience in designing, manufacturing, and testing PCBs, I am building a strong foundation in electronics and circuitry. The meticulous planning, editing, and iterative refinement of the schematics and layouts have improved my problem-solving skills and attention to detail.  I am cultivating technical expertise and a deeper understanding of the engineering lifecycle through designing and milling PCBs.
 I once again had the opportunity to learn new software like FLATCAM and EasyEDA richening my skillset.
 
-Further, the assembly process of the Fabulaser mini has exposed me to practical manufacturing challenges and how to overcome them. 
+Further, the assembly process of the Fabulaser mini has exposed me to practical manufacturing challenges and how to overcome them. Through this internship I had the opportunity to gain hands-on experience and diverse exposure related to digital fabrication.
 
