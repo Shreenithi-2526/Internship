@@ -4,9 +4,7 @@
 
 This week began with the design of a specific stepper motor driver by referring to its datasheet on Fusion 360. Using vernier calipers, the dimensions of the motor were also measured to cross-check with the datasheet. After completing the design, the next task was carried out: installing the Property++ extension on Fusion 360, which helped export the Bill of Materials to Excel for three CNC machines.
 
-[Motor Driver Model](IMG32.jpeg)
-
-he BOM from Excel was edited to the desired format and moved to Google Sheets.
+The BOM from Excel was edited to the desired format and moved to Google Sheets.
 
 ## Laser Duo Machine
 
